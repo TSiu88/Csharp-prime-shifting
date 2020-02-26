@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/csharp-prime-shifting/obj/Debug/netcoreapp2.2/Prime-Shifting.csprojAssemblyReference.cache
+/Users/Guest/Desktop/csharp-prime-shifting/obj/Debug/netcoreapp2.2/Prime-Shifting.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/csharp-prime-shifting/obj/Debug/netcoreapp2.2/Prime-Shifting.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/csharp-prime-shifting/obj/Debug/netcoreapp2.2/Prime-Shifting.AssemblyInfo.cs
+/Users/Guest/Desktop/csharp-prime-shifting/bin/Debug/netcoreapp2.2/Prime-Shifting.deps.json
+/Users/Guest/Desktop/csharp-prime-shifting/bin/Debug/netcoreapp2.2/Prime-Shifting.runtimeconfig.json
+/Users/Guest/Desktop/csharp-prime-shifting/bin/Debug/netcoreapp2.2/Prime-Shifting.runtimeconfig.dev.json
+/Users/Guest/Desktop/csharp-prime-shifting/bin/Debug/netcoreapp2.2/Prime-Shifting.dll
+/Users/Guest/Desktop/csharp-prime-shifting/bin/Debug/netcoreapp2.2/Prime-Shifting.pdb
+/Users/Guest/Desktop/csharp-prime-shifting/obj/Debug/netcoreapp2.2/Prime-Shifting.dll
+/Users/Guest/Desktop/csharp-prime-shifting/obj/Debug/netcoreapp2.2/Prime-Shifting.pdb
